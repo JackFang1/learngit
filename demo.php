@@ -3,7 +3,7 @@
 echo 'hello';
 function a()
 {
-    echo 1;
+    echo 'v2.0';
 }
 
 echo 'test';
